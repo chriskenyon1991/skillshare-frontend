@@ -4,8 +4,10 @@ Getting Started Clone the repository: <git clone https://github.com/chriskenyon1
 
 Navigate into the repository directory:
 
-Install required modules:
+Install required modules: npm i
 
-Start the server: Go to http://localhost:3000/
+Start the server: npm start
+
+Go to http://localhost:3000/
 
 this project is best veiwed on a mobile sized device
